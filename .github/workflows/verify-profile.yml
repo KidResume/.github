@@ -1,0 +1,23 @@
+name: Verify organization profile
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "Pillow==12.0.0"
+      - run: python scripts/render_public_assets.py
+      - name: Confirm generated assets are committed
+        run: git diff --exit-code -- assets
