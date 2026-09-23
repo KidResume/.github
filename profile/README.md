@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/kidresume-hero-1bit.png" alt="KidResume — truthful CVs, better first steps" width="100%">
+  <img src="../assets/kidresume-math-hero.svg" alt="KidResume mathematical editorial hero with contour fields and evidence vectors" width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## What KidResume is building
 
 <p align="center">
-  <img src="../assets/kidresume-path-1bit.png" alt="KidResume customer path from learner facts to downloadable resume files" width="100%">
+  <img src="../assets/kidresume-proof-vector.svg" alt="KidResume transformation proof from learner facts to owned resume files" width="100%">
 </p>
 
 KidResume helps a learner describe school subjects, projects, volunteering, responsibilities and tools in a structured way. The system is designed to convert only supported facts into clear resume language, apply a controlled visual template, and deliver the same approved revision as PDF and PNG.
@@ -22,7 +22,7 @@ The product does **not** invent experience, qualifications, marks or achievement
 ## Product principles
 
 <p align="center">
-  <img src="../assets/kidresume-principles-1bit.png" alt="KidResume product principles: truth, learner ownership, privacy and accessible delivery" width="100%">
+  <img src="../assets/kidresume-contour-manifesto.svg" alt="KidResume product principles with mathematical contour lines" width="100%">
 </p>
 
 - **Truth before polish:** design can organise verified content; it cannot invent biography.
